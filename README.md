@@ -25,4 +25,7 @@ cartas são jogadas no Truco, e principalmente quais as regras de valoração da
 cartas. Desta forma, a seguir será apresentada a sequência de valor das cartas
 no Truco.
 
+## Log
 
+Ao final da partida é gerado um log com as informações de cada jogada até o término do jogo, exibindo o vencedor e como foram as jogadas.
+Deixei um log já pronto de uma partida que joguei para facilitar o entendimento de como funciona.
