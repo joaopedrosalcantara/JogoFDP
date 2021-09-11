@@ -1,0 +1,198 @@
+Jogador 0: joao
+Jogador 1: jonas
+------------------MAO DO JOGADOR joao---------------------
+Carta 1:  Numero 3 com o nipe 2
+Carta 2:  Numero 5 com o nipe 2
+Carta 3:  Numero 6 com o nipe 4
+Carta 4:  Numero 5 com o nipe 4
+Carta 5:  Numero 13 com o nipe 4
+-------------------------------------------------------
+O jogador joao definiu sua meta como 1------------------MAO DO JOGADOR jonas---------------------
+Carta 1:  Numero 4 com o nipe 2
+Carta 2:  Numero 2 com o nipe 4
+Carta 3:  Numero 1 com o nipe 2
+Carta 4:  Numero 3 com o nipe 3
+Carta 5:  Numero 12 com o nipe 4
+-------------------------------------------------------
+O jogador jonas definiu sua meta como 1------------------MAO DO JOGADOR joao---------------------
+Carta 1:  Numero 3 com o nipe 2
+Carta 2:  Numero 5 com o nipe 2
+Carta 3:  Numero 6 com o nipe 4
+Carta 4:  Numero 5 com o nipe 4
+Carta 5:  Numero 13 com o nipe 4
+-------------------------------------------------------
+O jogador joao jogou a carta 3 de nipe 2
+------------------MAO DO JOGADOR jonas---------------------
+Carta 1:  Numero 4 com o nipe 2
+Carta 2:  Numero 2 com o nipe 4
+Carta 3:  Numero 1 com o nipe 2
+Carta 4:  Numero 3 com o nipe 3
+Carta 5:  Numero 12 com o nipe 4
+-------------------------------------------------------
+O jogador jonas jogou a carta 4 de nipe 2
+
+A carta mais forte e: 3 nipe 2 do jogador 1
+------------------MAO DO JOGADOR joao---------------------
+Carta 1:  Numero 5 com o nipe 2
+Carta 2:  Numero 6 com o nipe 4
+Carta 3:  Numero 5 com o nipe 4
+Carta 4:  Numero 13 com o nipe 4
+-------------------------------------------------------
+O jogador joao jogou a carta 5 de nipe 2
+------------------MAO DO JOGADOR jonas---------------------
+Carta 1:  Numero 2 com o nipe 4
+Carta 2:  Numero 1 com o nipe 2
+Carta 3:  Numero 3 com o nipe 3
+Carta 4:  Numero 12 com o nipe 4
+-------------------------------------------------------
+O jogador jonas jogou a carta 2 de nipe 4
+
+A carta mais forte e: 2 nipe 4 do jogador 2
+------------------MAO DO JOGADOR joao---------------------
+Carta 1:  Numero 6 com o nipe 4
+Carta 2:  Numero 5 com o nipe 4
+Carta 3:  Numero 13 com o nipe 4
+-------------------------------------------------------
+O jogador joao jogou a carta 6 de nipe 4
+------------------MAO DO JOGADOR jonas---------------------
+Carta 1:  Numero 1 com o nipe 2
+Carta 2:  Numero 3 com o nipe 3
+Carta 3:  Numero 12 com o nipe 4
+-------------------------------------------------------
+O jogador jonas jogou a carta 1 de nipe 2
+
+A carta mais forte e: 1 nipe 2 do jogador 2
+------------------MAO DO JOGADOR joao---------------------
+Carta 1:  Numero 5 com o nipe 4
+Carta 2:  Numero 13 com o nipe 4
+-------------------------------------------------------
+O jogador joao jogou a carta 5 de nipe 4
+------------------MAO DO JOGADOR jonas---------------------
+Carta 1:  Numero 3 com o nipe 3
+Carta 2:  Numero 12 com o nipe 4
+-------------------------------------------------------
+O jogador jonas jogou a carta 3 de nipe 3
+
+A carta mais forte e: 3 nipe 3 do jogador 2
+------------------MAO DO JOGADOR joao---------------------
+Carta 1:  Numero 13 com o nipe 4
+-------------------------------------------------------
+O jogador joao jogou a carta 13 de nipe 4
+------------------MAO DO JOGADOR jonas---------------------
+Carta 1:  Numero 12 com o nipe 4
+-------------------------------------------------------
+O jogador jonas jogou a carta 12 de nipe 4
+
+A carta mais forte e: 13 nipe 4 do jogador 1
+O jogador joao perdeu uma vida VIDAS RESTANTESD: 4
+O jogador jonas perdeu uma vida VIDAS RESTANTESD: 4
+------------------MAO DO JOGADOR joao---------------------
+Carta 1:  Numero 1 com o nipe 2
+Carta 2:  Numero 2 com o nipe 4
+Carta 3:  Numero 11 com o nipe 3
+Carta 4:  Numero 7 com o nipe 3
+-------------------------------------------------------
+O jogador joao definiu sua meta como 1------------------MAO DO JOGADOR jonas---------------------
+Carta 1:  Numero 11 com o nipe 4
+Carta 2:  Numero 12 com o nipe 3
+Carta 3:  Numero 4 com o nipe 2
+Carta 4:  Numero 6 com o nipe 2
+-------------------------------------------------------
+O jogador jonas definiu sua meta como 1------------------MAO DO JOGADOR joao---------------------
+Carta 1:  Numero 1 com o nipe 2
+Carta 2:  Numero 2 com o nipe 4
+Carta 3:  Numero 11 com o nipe 3
+Carta 4:  Numero 7 com o nipe 3
+-------------------------------------------------------
+O jogador joao jogou a carta 1 de nipe 2
+------------------MAO DO JOGADOR jonas---------------------
+Carta 1:  Numero 11 com o nipe 4
+Carta 2:  Numero 12 com o nipe 3
+Carta 3:  Numero 4 com o nipe 2
+Carta 4:  Numero 6 com o nipe 2
+-------------------------------------------------------
+O jogador jonas jogou a carta 11 de nipe 4
+
+A carta mais forte e: 1 nipe 2 do jogador 1
+------------------MAO DO JOGADOR joao---------------------
+Carta 1:  Numero 2 com o nipe 4
+Carta 2:  Numero 11 com o nipe 3
+Carta 3:  Numero 7 com o nipe 3
+-------------------------------------------------------
+O jogador joao jogou a carta 2 de nipe 4
+------------------MAO DO JOGADOR jonas---------------------
+Carta 1:  Numero 12 com o nipe 3
+Carta 2:  Numero 4 com o nipe 2
+Carta 3:  Numero 6 com o nipe 2
+-------------------------------------------------------
+O jogador jonas jogou a carta 12 de nipe 3
+
+A carta mais forte e: 2 nipe 4 do jogador 1
+------------------MAO DO JOGADOR joao---------------------
+Carta 1:  Numero 11 com o nipe 3
+Carta 2:  Numero 7 com o nipe 3
+-------------------------------------------------------
+O jogador joao jogou a carta 11 de nipe 3
+------------------MAO DO JOGADOR jonas---------------------
+Carta 1:  Numero 4 com o nipe 2
+Carta 2:  Numero 6 com o nipe 2
+-------------------------------------------------------
+O jogador jonas jogou a carta 4 de nipe 2
+
+A carta mais forte e: 11 nipe 3 do jogador 1
+------------------MAO DO JOGADOR joao---------------------
+Carta 1:  Numero 7 com o nipe 3
+-------------------------------------------------------
+O jogador joao jogou a carta 7 de nipe 3
+------------------MAO DO JOGADOR jonas---------------------
+Carta 1:  Numero 6 com o nipe 2
+-------------------------------------------------------
+O jogador jonas jogou a carta 6 de nipe 2
+
+A carta mais forte e: 7 nipe 3 do jogador 1
+O jogador joao perdeu uma vida VIDAS RESTANTESD: 3
+O jogador jonas perdeu uma vida VIDAS RESTANTESD: 3
+------------------MAO DO JOGADOR joao---------------------
+Carta 1:  Numero 1 com o nipe 2
+Carta 2:  Numero 1 com o nipe 3
+Carta 3:  Numero 4 com o nipe 4
+-------------------------------------------------------
+O jogador joao definiu sua meta como 1------------------MAO DO JOGADOR jonas---------------------
+Carta 1:  Numero 13 com o nipe 1
+Carta 2:  Numero 12 com o nipe 3
+Carta 3:  Numero 6 com o nipe 4
+-------------------------------------------------------
+O jogador jonas definiu sua meta como 1------------------MAO DO JOGADOR joao---------------------
+Carta 1:  Numero 1 com o nipe 2
+Carta 2:  Numero 1 com o nipe 3
+Carta 3:  Numero 4 com o nipe 4
+-------------------------------------------------------
+O jogador joao jogou a carta 1 de nipe 2
+------------------MAO DO JOGADOR jonas---------------------
+Carta 1:  Numero 13 com o nipe 1
+Carta 2:  Numero 12 com o nipe 3
+Carta 3:  Numero 6 com o nipe 4
+-------------------------------------------------------
+O jogador jonas jogou a carta 13 de nipe 1
+
+A carta mais forte e: 1 nipe 2 do jogador 1
+------------------MAO DO JOGADOR joao---------------------
+Carta 1:  Numero 1 com o nipe 3
+Carta 2:  Numero 4 com o nipe 4
+-------------------------------------------------------
+O jogador joao jogou a carta 1 de nipe 3
+------------------MAO DO JOGADOR jonas---------------------
+Carta 1:  Numero 12 com o nipe 3
+Carta 2:  Numero 6 com o nipe 4
+-------------------------------------------------------
+O jogador jonas jogou a carta 12 de nipe 3
+
+A carta mais forte e: 1 nipe 3 do jogador 1
+------------------MAO DO JOGADOR joao---------------------
+Carta 1:  Numero 4 com o nipe 4
+-------------------------------------------------------
+O jogador joao jogou a carta 4 de nipe 4
+------------------MAO DO JOGADOR jonas---------------------
+Carta 1:  Numero 6 com o nipe 4
+-------------------------------------------------------
+O jogador jonas jogou
